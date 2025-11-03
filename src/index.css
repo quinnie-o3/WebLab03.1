@@ -67,3 +67,7 @@ button:focus-visible {
   }
 }
 
+img {
+  border-radius: 20%;
+  border:#ffffff 2px solid;
+}
